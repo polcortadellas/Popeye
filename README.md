@@ -12,4 +12,4 @@
 1. **Build the images** (make sure to use your installed version of Docker Compose):
 
    ```bash
-   docker-compose build
+   docker-compose up --build
